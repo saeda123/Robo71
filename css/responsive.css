@@ -1,0 +1,898 @@
+@media(min-width:1200px) {
+
+    /*&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+                Home page start
+    &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&*/
+    .outside {
+        height: 200px !important;
+    }
+
+    .outside2 {
+        height: 200px !important;
+    }
+
+    /*&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+                Home page start
+    &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&*/
+}
+
+@media(min-width:992px) and (max-width:1199px) {
+
+    /*&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+                Home page start
+    &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&*/
+    .banner_img::before {
+        top: 95px;
+        left: 17px;
+        width: 85%;
+        height: 65%;
+    }
+
+    .banner_img::after {
+        top: 95px;
+        right: 49px;
+        width: 85%;
+        height: 65%;
+    }
+
+    #research_part {
+        padding: 62px 0;
+        position: relative;
+    }
+
+    .outside .draggable {
+        left: 0px;
+    }
+
+    .outside2 {
+        height: 27%;
+    }
+
+    .outside {
+        height: 29%;
+    }
+
+    .out_img h5 {
+        font-size: 22px;
+    }
+
+    .tran_tab_menu {
+        font-size: 15px;
+    }
+
+    /*&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+                Home page end
+    &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&*/
+}
+
+@media(min-width:768px) and (max-width:991px) {
+
+    /*&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+                Home page start
+    &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&*/
+    /*menu_part start*/
+    .main_menu {
+        height: 80px;
+    }
+
+    .main_menu .navbar-brand img {
+        width: 200px;
+        margin-left: -45px;
+        padding-top: 5px;
+    }
+
+    .main_menu .navbar-nav .nav-item .nav-link {
+        line-height: 80px;
+        color: #fff;
+        padding-left: 8px;
+        font-size: 16px;
+    }
+
+    /*menu_part end*/
+    /*banner_part start*/
+    .banner_text {
+        padding-top: 0px;
+    }
+
+    .banner_text h1 {
+        font-size: 100px;
+    }
+
+    .banner_text h3 {
+        font-size: 70px;
+    }
+
+    .banner_text p {
+        padding: 40px 0;
+    }
+
+    .banner_text p:before {
+        height: 60px;
+        top: 30px;
+    }
+
+    /*banner_part end*/
+    /*about_part start*/
+    #about_robo {
+        padding-bottom: 60px;
+    }
+
+    .robo_text p span {
+        padding-top: 20px;
+    }
+
+    .robo_text p {
+        padding: 25px 0 0 0;
+    }
+
+    /*about_part end*/
+    /*research_part start*/
+    .outside .draggable {
+        left: 0px;
+    }
+
+    .research_text p {
+        text-align: justify;
+    }
+
+    .research_text2 {
+        padding-left: 20px;
+        text-align: justify;
+    }
+
+    .research_text a {
+        font-size: 14px;
+    }
+
+    #research_part {
+        padding: 89px 0;
+    }
+
+    #research_part2 {
+        padding: 0px 0 100px;
+    }
+
+    .out_img h5 {
+        font-size: 22px;
+        padding: 20px 0;
+    }
+
+    .research_text p {
+        padding: 10px 15px 0 0;
+    }
+
+    .research_text2 {
+        padding-left: 45px;
+        line-height: 24px;
+    }
+
+    .research_text h4 {
+        padding-bottom: 0px;
+    }
+
+    .outside2 {
+        top: 10px;
+        height: 160px !important;
+        padding: 30px 0 0 0;
+        right: -20px !important;
+    }
+
+    .outside {
+        padding: 30px 0px 0px 0;
+        height: 160px !important;
+        right: -20px;
+    }
+
+    .research_text p span {
+        display: inline;
+        padding-top: 0px;
+    }
+
+    /*research_part end*/
+    /*event_part start*/
+    .event_header p {
+        padding: 15px 65px;
+    }
+
+    /*event_part end*/
+    /*&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+                Home page end
+    &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&*/
+    /*&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+               About page start
+    &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&*/
+    #about_banner {
+        padding: 140px 0 100px;
+    }
+
+    #footer_nav {
+        display: none;
+    }
+
+    /*&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+                About page end
+    &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&*/
+    /*&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+                training page start
+    &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&*/
+    .tran_tab_menu {
+        padding: 15px;
+        font-size: 15px;
+    }
+
+    .tran_tab_menu::after {
+        left: 20px;
+        width: 172px;
+    }
+
+    .tab_cont_main p {
+        font-size: 15px;
+    }
+
+    .tab_cont_main {
+        padding: 15px;
+    }
+
+    /*&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+                training page end
+    &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&*/
+    /*&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+                join page start
+    &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&*/
+    .join_text_up {
+        padding-top: 40px;
+    }
+
+    .join_text_bottom ol li {
+        padding-top: 15px;
+    }
+
+    #join_form_part {
+        padding: 0px 0 80px;
+    }
+
+    /*&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+                join page end
+    &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&*/
+}
+
+@media(min-width:576px) and (max-width:767px) {
+
+    /*&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+                Home page start
+    &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&*/
+    /*menu_part start*/
+    .main_menu {
+        height: 70px;
+    }
+
+    .main_menu .navbar-brand img {
+        width: 100px;
+        height: 70px !important;
+        padding-top: 0;
+    }
+
+    .main_menu button a i {
+        color: #ffffff;
+    }
+
+    .main_menu button:focus {
+        outline: 0;
+    }
+
+    #navbarSupportedContent {
+        background: #ffffff;
+        border-top: 2px solid #c3a70f;
+        z-index: 99999;
+    }
+
+    .main_menu .navbar-nav .nav-item .nav-link {
+        line-height: 30px;
+        text-align: center;
+        color: #222;
+    }
+
+    /*    menu_part end*/
+    /*    banner_part start*/
+    #banner_part {
+        padding: 135px 0 100px;
+    }
+
+    .banner_text {
+        padding-top: 0px;
+    }
+
+    .banner_text h1 {
+        font-size: 75px;
+    }
+
+    .banner_text h3 {
+        font-size: 60px;
+    }
+
+    .banner_text p {
+        padding: 25px 0;
+    }
+
+    .banner_text p::before {
+        height: 80px;
+        top: 24px;
+    }
+
+    banner_img .inset-glow {
+        display: none;
+    }
+
+    /*    banner_part end*/
+    /*    about_part start*/
+    #about_robo {
+        padding-bottom: 56px;
+    }
+
+    .robo_text p {
+        text-align: justify;
+        padding: 30px 0 0 0;
+    }
+
+    /*    about_part end*/
+    /*    research_part start*/
+    #research_part {
+        padding: 60px 0;
+    }
+
+    .outside {
+        height: 200px !important;
+        padding: 30px 0;
+        width: 100%;
+        top: 0px;
+        right: -35px;
+        position: relative;
+    }
+
+    .outside .draggable {
+        left: 0px;
+    }
+
+    .outside2 {
+        height: 200px !important;
+        padding: 30px 0;
+        width: 100%;
+        top: 28px;
+        right: -35px;
+        position: relative;
+    }
+
+    .outside2 {
+        margin-bottom: 156px !important;
+    }
+
+    .outside2 .draggable {
+        left: 0px;
+    }
+
+    .research_text a {
+        margin-bottom: 30px;
+    }
+
+    #research_part2 {
+        padding: 0px 0 80px;
+    }
+
+    .outside2 {
+        margin-bottom: 80px;
+    }
+
+    .research_text p {
+        padding: 0px 0 0 0;
+    }
+
+    .research_text2 {
+        margin-top: 150px;
+    }
+
+    /*    research_part end*/
+    /*    event_part start*/
+    .event_header p {
+        padding: 15px 0px;
+    }
+
+    /*    event_part end*/
+    /*    gallery_part start*/
+    #gallery_part .gallery_top {
+        padding-top: 40px;
+        margin-right: 0px;
+    }
+
+    .gallery_img {
+        margin-bottom: 15px;
+    }
+
+    .gallery_img {
+        margin-right: -15px;
+    }
+
+    #gallery_part {
+        padding: 70px 0 32px;
+    }
+
+    /*    gallery_part end*/
+    /* contact_part start*/
+    #contact_part {
+        padding: 50px 0;
+    }
+
+    .contact_inner {
+        margin-top: 0px;
+    }
+
+    .contact_form p {
+        padding-left: 43px;
+    }
+
+    .contact_form p i {
+        width: 0;
+        height: 0px;
+        left: 0px;
+    }
+
+    #footer_nav {
+        display: none;
+    }
+
+    /* contact_part end*/
+    /*&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+                Home page end
+    &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&*/
+    /*&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+                about page start
+    &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&*/
+    #about_banner {
+        padding: 130px 0 70px;
+    }
+
+    .about_head h2 {
+        font-size: 35px;
+    }
+
+    /*&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+                about page end
+    &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&*/
+    /*&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+                training page start
+    &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&*/
+    .training_part {
+        padding-top: 0;
+    }
+
+    .training_img {
+        padding-top: 60px;
+    }
+
+    .robo_text {
+        padding-top: 50px;
+    }
+
+    #tranning_tab_part {
+        padding: 60px 0;
+    }
+
+    .tran_tab_menu:hover {
+        color: #0a2230;
+        text-decoration: none;
+    }
+
+    .tran_tab_menu {
+        padding: 15px;
+        font-size: 17px;
+    }
+
+    .tran_tab_menu::after {
+        left: 20px;
+        width: 90%;
+    }
+
+    /*&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+                training page end
+    &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&*/
+    /*&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+                join page start
+    &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&*/
+    #Join_part {
+        padding: 60px 0;
+    }
+
+    .join_text_up {
+        padding-top: 30px;
+    }
+
+    .join_text_up h2 {
+        font-size: 25px;
+    }
+
+    .join_text_bottom h2 {
+        font-size: 25px;
+    }
+
+    #join_form_part {
+        padding: 0px 0 70px;
+    }
+
+    .parents_inform h2 {
+        font-size: 25px;
+    }
+
+    .join_button button {
+        padding: 10px 20px;
+        font-size: 17px;
+    }
+
+    /*&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+                join page end
+    &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&*/
+}
+
+@media(max-width:575px) {
+
+    /*&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+                Home page start
+    &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&*/
+    /*menu_part start*/
+    .main_menu {
+        height: 70px;
+    }
+
+    .main_menu .navbar-brand img {
+        width: 100px;
+        height: 70px !important;
+        padding-top: 0;
+    }
+
+    .main_menu button a i {
+        color: #ffffff;
+    }
+
+    .main_menu button:focus {
+        outline: 0;
+    }
+
+    #navbarSupportedContent {
+        background: #fff;
+        border-top: 2px solid #c3a70f;
+        color: #222;
+        z-index: 99999;
+    }
+
+    .main_menu .navbar-nav .nav-item .nav-link {
+        line-height: 30px;
+        text-align: center;
+        color: #222;
+    }
+
+    /*menu_part end*/
+    /*banner_part start*/
+    #banner_part {
+        padding: 132px 0 100px;
+    }
+
+    .banner_text {
+        padding-top: 0px;
+    }
+
+    .banner_text h1 {
+        font-size: 73px;
+    }
+
+    .banner_text h3 {
+        font-size: 60px;
+    }
+
+    .banner_text p::before {
+        left: 3px;
+        height: 100px;
+        top: 32px;
+    }
+
+    .banner_text p {
+        padding: 25px 0 0 15px;
+        font-size: 15px;
+        line-height: 24px;
+    }
+
+    banner_img .inset-glow {
+        display: none;
+    }
+
+    .banner_text a {
+        margin-top: 20px;
+    }
+
+    /*banner_part end*/
+    /*about part start*/
+    .robo_text {
+        padding-top: 50px;
+    }
+
+    .robo_text p {
+        text-align: justify;
+        padding: 30px 0 0 0;
+    }
+
+    #about_robo {
+        padding-bottom: 59px;
+    }
+
+    /*about part end*/
+    /*research part start*/
+    #research_part {
+        padding: 0 0;
+    }
+
+    .research_text a {
+        font-size: 14px;
+        padding: 10px 7px;
+        margin-top: 30px;
+        margin-bottom: 40px;
+        text-align: center;
+    }
+
+    .research_text {
+        display: block;
+    }
+
+    .outside {
+        height: 200px;
+        padding: 30px 0;
+        width: 100%;
+        top: 0px;
+        position: relative;
+    }
+
+    .slick-slide .out_img {
+        padding-right: 0px;
+    }
+
+    .outside .draggable {
+        left: 0px;
+    }
+
+    .outside2 {
+        height: 200px;
+        padding: 30px 0;
+        width: 100%;
+        top: 28px;
+        position: relative;
+        margin-bottom: 200px;
+    }
+
+    .outside2 .draggable {
+        left: 0px;
+    }
+
+    #research_part2 {
+        padding: 36px 0 30px;
+    }
+
+    .research_text {
+        margin-top: 0px;
+    }
+
+    .research_text h4 {
+        padding-top: 30px;
+    }
+
+    .research_text p {
+        text-align: justify;
+    }
+
+    .research_text p span {
+        padding-top: 18px;
+    }
+
+    .research_text2 {
+        margin-top: 140px;
+    }
+
+    /*research part end*/
+    /*event part start*/
+    .event_header p {
+        padding: 20px 0;
+    }
+
+    .event_header a {
+        margin-top: 14px;
+        margin-right: 6px;
+        padding: 11px 8px;
+    }
+
+    .event_inner {
+        padding-top: 40px;
+    }
+
+    .event_img h5 {
+        font-size: 22px;
+        padding: 16px 0;
+    }
+
+    #event_part {
+        padding: 60px 0 55px;
+    }
+
+    #team_part {
+        padding: 50px 0 50px;
+    }
+
+    /*event part end*/
+    /*gallery part start*/
+    #gallery_part {
+        padding: 56px 0 37px;
+        border-bottom: 1px solid #d5d5d5;
+    }
+
+    #gallery_part .gallery_top {
+        padding-top: 40px;
+        margin-right: 0 !important;
+    }
+
+    #gallery_part .gallery_bottom {
+        padding-top: 0px;
+        margin-left: 0 !important;
+    }
+
+    .gallery_img {
+        margin-bottom: 30px;
+    }
+
+    /*gallery part end*/
+    /*acontact part start*/
+    #contact_part {
+        padding: 50px 0 0 0;
+    }
+
+    .mt-5,
+    .my-5 {
+        margin-top: 0rem !important;
+    }
+
+    .contact_form p i {
+        width: 0px;
+        height: 0px;
+        left: 1px;
+    }
+
+    #footer_nav {
+        display: none;
+    }
+
+    /*contact part end*/
+    /*&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+                Home page end
+    &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&*/
+    /*&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+                About page start
+    &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&*/
+    /* banner_part start*/
+    #about_banner {
+        padding: 130px 0 56px;
+    }
+
+    .about_head h2 {
+        font-size: 35px;
+    }
+
+    .about_head ol li a {
+        font-size: 16px;
+    }
+
+    /* banner_part end*/
+    /*&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+                About page end
+    &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&*/
+    /*&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+                training page start
+    &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&*/
+    .training_img {
+        padding-top: 36px;
+    }
+
+    .robo_text {
+        padding-top: 37px;
+    }
+
+    .tab_cont_main {
+        padding: 19px 0;
+    }
+
+    .tab_cont_main p {
+        font-size: 15px;
+    }
+
+    .tab_cont_main p span {
+        padding-top: 22px;
+    }
+
+    .tran_tab_menu {
+        padding: 15px 20px;
+        position: relative;
+        color: #0a2230;
+        font-size: 18px;
+        font-weight: 400;
+        font-family: 'Arimo', sans-serif;
+    }
+
+    #tranning_tab_part {
+        padding: 50px 0;
+    }
+
+    .tab-content ul {
+        padding-left: 25px;
+    }
+
+    /*&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+                training page end
+    &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&*/
+    /*&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+               research page start
+    &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&*/
+    .about_head ol li a {
+        font-size: 15px !important;
+    }
+
+    #research_tab_part {
+        padding: 50px 0;
+    }
+
+    /*&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+                research page end
+    &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&*/
+    /*&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+                join page start
+    &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&*/
+    #Join_part {
+        padding: 50px 0;
+    }
+
+    .join_text_up h2 {
+        padding-top: 20px;
+        font-size: 25px;
+    }
+
+    .join_text_bottom h2 {
+        font-size: 25px;
+    }
+
+    .join_text_bottom ol {
+        padding-left: 15px;
+    }
+
+    .join_text_bottom ol li {
+        color: #444;
+        line-height: 28px;
+        padding-top: 15px;
+    }
+
+    .form_left label {
+        font-size: 12px;
+    }
+
+    #join_form_part {
+        padding: 10px 0 50px;
+    }
+
+    .parents_inform h2 {
+        font-size: 25px;
+    }
+
+    /*&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+                join page end
+    &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&*/
+    /*&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+                Home page start
+    &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&*/
+    .gallery_header {
+        padding-bottom: -13px;
+    }
+
+    /*&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+                Home page end
+    &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&*/
+}
